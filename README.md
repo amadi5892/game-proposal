@@ -26,15 +26,18 @@
 * Place props on the side of the road for visual effects
 
 ### **Timeline:** 
-_Wednesday:_ 
-* Proposal Gets Approved 
+_Tuesday:_
+* Proposal Gets Approved
 * Complete Wireframe
 * Learn/Understand JQuery
 
-_Thursday:_ 
+_Wednesday:_ 
 * Plan out code
-* Pseudo Code
+* Psuedo Code
 * Start Coding; JS
+
+_Thursday:_ 
+* JS
 
 _Friday:_
 * JS
