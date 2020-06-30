@@ -12,9 +12,11 @@
 
 
 ### **Technical Challenges:** 
+* Creating a speed for different gear shifts
 * Getting the cars to shift upon command. 
 * When shifting up the car should speed up and when shifting down the car will loose speed. 
 * Activating boost at 3rd gear.
+* Multiplayer Mode
 
 ### **Wireframe**
 ![](./Wireframe/test.jpeg)
