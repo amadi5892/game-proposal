@@ -4,19 +4,15 @@
 
 
 ### **Description:** 
->Street racing game. User or users will race their cars shifting and boosting to the finish line. A little focus and quick reflexes a winner will rise to the top!
+>Street racing game. User or users will race their cars to the finish line. A little focus and quick reflexes a winner will rise to the top!
 
 
 ### **Rules of the game:** 
-> When the race starts the user will have to shift at the appropiate time using the "up" and "down" arrow keys. When prompted to do so, the user will have a chance to use a Nitrous boost using the "spacebar" key. Their car must reach the finish line first to win the game. 
+> When the race starts the cars will start speeding towards the finish line. When prompted to do so, the user will have a chance to use a Nitrous boost using the "spacebar" key. Their car must reach the finish line first to win the game. 
 
 
 ### **Technical Challenges:** 
-* Creating a speed for different gear shifts
-* Getting the cars to shift upon command. 
-* When shifting up the car should speed up and when shifting down the car will loose speed. 
-* Activating boost at 3rd gear.
-* Multiplayer Mode
+* User function key, spacebar, to boost the car's speed while racing.
 
 ### **Wireframe**
 ![](./Wireframe/test.jpeg)
