@@ -8,11 +8,11 @@
 
 
 ### **Rules of the game:** 
-> When the race starts the cars will start speeding towards the finish line. When prompted to do so, the user will have a chance to use a Nitrous boost using the "spacebar" key. Their car must reach the finish line first to win the game. 
+> When the race starts the cars will start speeding towards the finish line. When prompted to do so, the user will have a chance to use a Nitrous boost using a random key that is prompted on the screen. They will have four chances to hit the correct key. The more keys they miss, the less of a chance they will have to win. Their car must reach the finish line first to win the game. 
 
 
 ### **Technical Challenges:** 
-* User function key, spacebar, to boost the car's speed while racing.
+* User function key, random keys, to boost the car's speed while racing.
 
 ### **Wireframe**
 ![](./Wireframe/test.jpeg)
@@ -36,14 +36,14 @@ _Thursday:_
 * JS
 
 _Friday:_
-* JS
+* JS & CSS
 
 _Saturday:_ 
-* JS
+* JS & CSS
 
 _Sunday:_
 * JS & CSS
+* Testing
 
 _Monday:_
-* JS & CSS
 * Final Testing & Review
